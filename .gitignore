@@ -14,7 +14,6 @@
 
 # Output files from html build
 *.nb.html
-GitHub-Basics.html
 
 # Output files from R CMD check
 /*.Rcheck/
