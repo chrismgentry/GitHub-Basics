@@ -4,6 +4,7 @@
 
 # Session Data files
 .RData
+*.Rproj
 
 # Example code in package build process
 *-Ex.R
@@ -11,11 +12,22 @@
 # Output files from R CMD build
 /*.tar.gz
 
+# Output files from html build
+*.nb.html
+GitHub-Basics.html
+
 # Output files from R CMD check
 /*.Rcheck/
 
 # RStudio files
 .Rproj.user/
+
+# Markdown File
+GitHub-Basics.md
+
+
+# Image files
+Images/
 
 # produced vignettes
 vignettes/*.html
