@@ -15,6 +15,9 @@
 # Output files from html build
 *.nb.html
 
+# Previous html file
+previous_index.html
+
 # Output files from R CMD check
 /*.Rcheck/
 
